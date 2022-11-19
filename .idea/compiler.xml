@@ -11,9 +11,11 @@
         <module name="SpringMVCAppTwo-21" />
         <module name="SpringMVCAppTwo-24" />
         <module name="SpringMVCAppTwo-23" />
+        <module name="Project_1" />
         <module name="SpringMVCAppTwo-master" />
         <module name="SpringMVCAppTwo-26" />
         <module name="SpringMVCAppTwo-25" />
+        <module name="drop-down lists" />
         <module name="SpringMVCAppTwo-27" />
       </profile>
     </annotationProcessing>
